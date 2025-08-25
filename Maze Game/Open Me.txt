@@ -5,4 +5,5 @@ Make sure you have 3 things before you open the game or else it wont work.
 2. Pygame (if you do not have go to cmd and run this pip install pygame)
 
 3. gspread (This is for the leaderboard. If you do not have this then you will put this in cmd pip install gspread oauth2client)
-)
+
+4. Oauth (This is also for leaderboard. Put this in cmd python3 -m pip install gspread oauth2client)
